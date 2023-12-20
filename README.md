@@ -2,15 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Souza+👽;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GustavoSouza20&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoSouza20&show_icons=true&count_private=true&hide_border=true&title_color=00FA9A&icon_color=F5FFFA&text_color=00FA9A&bg_color=0d1117" alt="Gustavo Souza github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSouza20&layout=compact&hide_border=true&title_color=00FA9A&text_color=00FA9A&bg_color=0d1117" />
