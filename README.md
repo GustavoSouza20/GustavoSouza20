@@ -40,16 +40,13 @@
   
   <img aling= center alt= "html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   
-  
-  
-  
-  
+  <img aling= center alt= "html5" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue">
+    
   
 </div><br>
 
 ### Studying in this moment:
 <img aling= center alt= "html5" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 
-<img aling= center alt= "html5" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
